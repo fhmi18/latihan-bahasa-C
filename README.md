@@ -1,2 +1,3 @@
-# webbeasiswafahmi.github.io
-web pengajuan beasiswa dengan menggunakan php
+# latihan logika C
+
+Latihan Menggunakan Bahasa C
